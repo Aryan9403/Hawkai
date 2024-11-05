@@ -1,0 +1,18 @@
+/* Information box styling */
+.information-box {
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #1e1e1e; /* Match with landing page background */
+    color: #00ffff; /* Neon theme color */
+    border: 2px solid #00ffff;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    box-shadow: 
+        0 0 10px rgba(0, 255, 255, 0.6), 
+        0 0 20px rgba(0, 255, 255, 0.4), 
+        0 0 30px rgba(0, 255, 255, 0.2), 
+        0 0 40px rgba(0, 255, 255, 0.1);
+}
+
