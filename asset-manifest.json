@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Hawkai/static/css/main.6dd243ea.css",
-    "main.js": "/Hawkai/static/js/main.34b8e865.js",
+    "main.js": "/Hawkai/static/js/main.55950cdc.js",
     "static/js/453.9933acd8.chunk.js": "/Hawkai/static/js/453.9933acd8.chunk.js",
     "static/media/logo.jpg": "/Hawkai/static/media/logo.d56417e9e90c3d9fc8ec.jpg",
     "index.html": "/Hawkai/index.html",
     "main.6dd243ea.css.map": "/Hawkai/static/css/main.6dd243ea.css.map",
-    "main.34b8e865.js.map": "/Hawkai/static/js/main.34b8e865.js.map",
+    "main.55950cdc.js.map": "/Hawkai/static/js/main.55950cdc.js.map",
     "453.9933acd8.chunk.js.map": "/Hawkai/static/js/453.9933acd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dd243ea.css",
-    "static/js/main.34b8e865.js"
+    "static/js/main.55950cdc.js"
   ]
 }
